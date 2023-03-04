@@ -1,0 +1,23 @@
+﻿  main.cpp
+  GLM: GLM_MESSAGES is deprecated, use GLM_FORCE_MESSAGES instead
+  GLM: Windows platform detected
+  GLM: version 0.9.8.1
+  GLM: Visual C++ compiler detected
+  GLM: 64 bits model
+  GLM: SSE2 instruction set
+  GLM: C++0x
+  GLM: Language extensions enabled
+  GLM: GLM_SWIZZLE is deprecated, use GLM_FORCE_SWIZZLE instead
+  GLM: Swizzling operators enabled
+C:\Users\Andre\Desktop\PG\proiectPrelucrareGrafica2\proiectPrelucrareGrafica2\glm\detail\setup.hpp(606,1): fatal  error C1189: #error:  Define GLM_FORCE_DEPTH_ZERO_TO_ONE instead of GLM_DEPTH_ZERO_TO_ONE to use 0 to 1 clip space.
+  Mesh.cpp
+C:\Users\Andre\Desktop\PG\proiectProiectareGrafica\proiectProiectareGrafica\Mesh.cpp(32,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model3D.cpp
+C:\Users\Andre\Desktop\PG\proiectProiectareGrafica\proiectProiectareGrafica\Model3D.cpp(89,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\Users\Andre\Desktop\PG\proiectProiectareGrafica\proiectProiectareGrafica\Model3D.cpp(97,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Window.cpp
+  Generating Code...

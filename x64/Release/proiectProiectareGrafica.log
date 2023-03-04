@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+C:\Users\Andre\Desktop\PG\SandElenaAndreea_gr30233_app\proiectProiectareGrafica\Camera.hpp(4,10): fatal  error C1083: Cannot open include file: 'C:/Users/Andre/Desktop/PG/proiectProiectareGrafica/proiectProiectareGrafica/glm/glm.hpp': No such file or directory
+  main.cpp
+C:\Users\Andre\Desktop\PG\SandElenaAndreea_gr30233_app\proiectProiectareGrafica\main.cpp(6,10): fatal  error C1083: Cannot open include file: 'C:/Users/Andre/Desktop/PG/proiectProiectareGrafica/proiectProiectareGrafica/glm/glm.hpp': No such file or directory
+  Mesh.cpp
+C:\Users\Andre\Desktop\PG\SandElenaAndreea_gr30233_app\proiectProiectareGrafica\Mesh.hpp(5,10): fatal  error C1083: Cannot open include file: 'C:/Users/Andre/Desktop/PG/proiectProiectareGrafica/proiectProiectareGrafica/glm/glm.hpp': No such file or directory
+  Model3D.cpp
+C:\Users\Andre\Desktop\PG\SandElenaAndreea_gr30233_app\proiectProiectareGrafica\Mesh.hpp(5,10): fatal  error C1083: Cannot open include file: 'C:/Users/Andre/Desktop/PG/proiectProiectareGrafica/proiectProiectareGrafica/glm/glm.hpp': No such file or directory
+  Shader.cpp
+  SkyBox.cpp
+  Source.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
